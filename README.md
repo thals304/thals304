@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&&color=gradient&text=Welcome%20SOMIN's%20github&fontSize=40)
 </div>
 
-## WELCOME
+## ✋WELCOME
 **Hi ! I'm SOMIN KIM, HYU Computer Software Engineering Student (CSE)**
  - Interested in Backend & AI.
 
