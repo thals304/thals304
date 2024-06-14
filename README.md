@@ -21,4 +21,4 @@
 
 ## 🥇 Certificate
 
-Wrtn Technologies Inc. 2nd Ideathon - Certificate of Excellence
+- Wrtn Technologies Inc. 2nd Ideathon - Certificate of Excellence
