@@ -20,3 +20,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thals304&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🥇 Certificate
+
+Wrtn Technologies Inc. 2nd Ideathon - Certificate of Excellence
