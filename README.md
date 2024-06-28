@@ -22,3 +22,4 @@
 ## 🥇 Certificate
 
 - Wrtn Technologies Inc. 2nd Ideathon - Certificate of Excellence
+- SQLD-05301208 [SQL Developer]
