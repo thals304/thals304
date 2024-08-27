@@ -5,7 +5,7 @@
 
 ## ✋WELCOME
 **Hi ! I'm SOMIN KIM, HYU Computer Software Engineering Student (CSE)**
- - Interested in Backend & AI & Cloud.
+ - Interested in Backend.
 
 ## 🔖 Tech Stack
  - Techs that I've used at least one.
