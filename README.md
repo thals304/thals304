@@ -25,11 +25,8 @@
 - SQLD-05301208 [SQL Developer]
 
 ## Git Animal
+<br>
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=thals304&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/thals304?pet-id=669794723249313824"
-    width="600"
-    height="120"
-  />
+  <img src="https://render.gitanimals.org/lines/thals304?pet-id=669797884311695432" width="600" height="120"/>
 </a>
   
