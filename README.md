@@ -22,7 +22,8 @@
 ## 🥇 Certificate
 
 - Wrtn Technologies Inc. 2nd Ideathon - Certificate of Excellence
-- SQLD-05301208 [SQL Developer]
+- SQLD-05301208 [SQLD]
+- LMS-2501-003505 [Linux Master 2급]
 
 ## Git Animal
 <br>
